@@ -1,3 +1,7 @@
 Heyy this is sai teja a waste buster
 Text added after sometime
+<<<<<<< HEAD
 Text added from git bash
+=======
+Cool cool
+>>>>>>> 1cfa64d600e11ff20e75bbdd49b0e04671bc574e
